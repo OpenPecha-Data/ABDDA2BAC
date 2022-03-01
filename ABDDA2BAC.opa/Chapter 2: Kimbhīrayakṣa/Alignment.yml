@@ -1,0 +1,26 @@
+segment_sources:
+  PFCF2244E:
+    type: origin_type
+    relation: translation
+    language: sa
+  P84349A56:
+    type: origin_type
+    relation: translation
+    language: zh
+  P7F343A95:
+    type: origin_type
+    relation: translation
+    language: zh
+  PCC5F4C8F:
+    type: origin_type
+    relation: translation
+    language: bo
+  PC9404848:
+    type: origin_type
+    relation: translation
+    language: bo
+  PA6AD8958:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs: {}

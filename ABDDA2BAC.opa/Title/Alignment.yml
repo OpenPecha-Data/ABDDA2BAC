@@ -1,0 +1,33 @@
+segment_sources:
+  PFCF2244E:
+    type: origin_type
+    relation: translation
+    language: sa
+  P84349A56:
+    type: origin_type
+    relation: translation
+    language: zh
+  P7F343A95:
+    type: origin_type
+    relation: translation
+    language: zh
+  PCC5F4C8F:
+    type: origin_type
+    relation: translation
+    language: bo
+  PC9404848:
+    type: origin_type
+    relation: translation
+    language: bo
+  PA6AD8958:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  b59f50ed18604a6fafc99e6bdfc49fa0:
+    PFCF2244E: a66bed3e32fd4710883b0e91ac9820ac
+    P84349A56: 712c597daca64d4cae532129285046dd
+    P7F343A95: d2f3be0e8aaa4629a70bf799412e9d2b
+    PCC5F4C8F: None
+    PC9404848: a8635ab407554dda82434f05f717f95b
+    PA6AD8958: 9c6fdcdfec3744828ae39e2da7b97467
